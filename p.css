@@ -1,5 +1,0 @@
-@layer base {
-    p {
-        @apply p-3 bg-indigo-500 text-white
-    }
-}

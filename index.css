@@ -1,1 +1,9 @@
-@import "typographics.css";
+@layer base {
+    p:first-child {
+        @apply p-3 bg-indigo-500 text-white
+    }
+}
+
+p:last-child {
+    @apply p-3 bg-indigo-500 text-white
+}

@@ -1,6 +1,7 @@
 {
   "name": "windicss-issue",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -8,7 +9,7 @@
   },
   "devDependencies": {
     "vite": "^2.5.4",
-    "vite-plugin-windicss": "1.4.5",
-    "windicss": "3.1.7"
+    "vite-plugin-windicss": "1.4.8",
+    "windicss": "3.1.8"
   }
 }
